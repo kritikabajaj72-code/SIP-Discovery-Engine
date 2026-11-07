@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+plotly
+openpyxl
+python-dotenv
+openai
+pydantic
+scikit-learn
+google-genai
+google-play-scraper

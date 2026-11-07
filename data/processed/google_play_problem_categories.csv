@@ -1,0 +1,21 @@
+app_name,possible_problem_category,review_count
+Groww,app_crash_or_technical,4
+Groww,kyc_or_onboarding,2
+Groww,none,486
+Groww,redemption_or_withdrawal,4
+Groww,returns_losses_or_dissatisfaction,4
+INDmoney,app_crash_or_technical,31
+INDmoney,kyc_or_onboarding,4
+INDmoney,none,444
+INDmoney,redemption_or_withdrawal,4
+INDmoney,returns_losses_or_dissatisfaction,16
+INDmoney,sip_amount_or_date_change,1
+Zerodha Coin,app_crash_or_technical,25
+Zerodha Coin,kyc_or_onboarding,4
+Zerodha Coin,missed_instalment,1
+Zerodha Coin,none,421
+Zerodha Coin,redemption_or_withdrawal,14
+Zerodha Coin,returns_losses_or_dissatisfaction,22
+Zerodha Coin,sip_amount_or_date_change,5
+Zerodha Coin,sip_payment_failure,5
+Zerodha Coin,sip_setup_and_registration,3

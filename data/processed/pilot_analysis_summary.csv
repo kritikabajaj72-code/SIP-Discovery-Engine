@@ -1,0 +1,32 @@
+section,item,value
+overview,total_classified_records,100
+source,Google Play,23
+source,YouTube,77
+app,Groww,1
+app,Zerodha Coin,19
+app,INDmoney,3
+app,(blank),77
+sip_relevance,direct,64
+sip_relevance,indirect,35
+sip_relevance,not_relevant,1
+behaviour,general_advice_or_opinion,64
+behaviour,unknown,33
+behaviour,missed_installment,2
+behaviour,actively_continuing,1
+root_cause_category,unknown,99
+root_cause_category,payment_failure_or_technical_friction,1
+emotion,neutral,50
+emotion,positive,29
+emotion,negative,20
+emotion,mixed,1
+continuation_relevance,general_discussion,95
+continuation_relevance,missed_instalment,3
+continuation_relevance,not_applicable,1
+continuation_relevance,intention_to_discontinue,1
+evidence_strength,moderate,64
+evidence_strength,none,33
+evidence_strength,strong,3
+confidence,average,0.867
+confidence,scores_used,100
+root_cause,unknown_root_cause_detail,96
+unsupported_inference,true,45
